@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class OpenTheDoor {
 
 	public static void main(String[] args) {
-		// 시건 장치 p
+		// 시건 장치 
 
 		boolean doorOpen = false;
 
